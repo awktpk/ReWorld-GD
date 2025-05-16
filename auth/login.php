@@ -53,7 +53,7 @@
 
 <script type="text/javascript">
     $('#submit').click(function() {
-      window.location.href = "https://discord.com/api/oauth2/authorize?client_id=881228402722500659&redirect_uri=http%3A%2F%2Flocalhost%2Fauth%2Fauth.php&response_type=code&scope=identify%20guilds%20guilds.join";
+      window.location.href = "https://discord.com/oauth2/authorize?client_id=1372955015668564151&response_type=code&redirect_uri=http%3A%2F%2Fnode1.worldplayer.ru%3A27011%2Fauth%2Fauth.php&scope=identify+guilds+guilds.join";
     });
 </script>
 

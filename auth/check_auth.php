@@ -40,5 +40,5 @@ $avatar = $_SESSION["avatar"];
 $access_token = $_SESSION["access_token"];
 $staff_permissions = $_SESSION["staff_permissions"];
 $api_url = "http://127.0.0.1:30458";
-$website_url = "http://localhost";
+$website_url = "http://node1.worldplayer.ru:27011";
 ?>
